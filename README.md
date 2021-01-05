@@ -120,8 +120,6 @@ The following list, represents the set of related repositories for the presented
 
 - [`dataset-uta10-annotations`](https://github.com/MIMBCD-UI/dataset-uta10-annotations)
 
-- [`dataset-uta10-dicom`](https://github.com/MIMBCD-UI/dataset-uta10-dicom)
-
 - [`dataset-uta10-messages`](https://github.com/MIMBCD-UI/dataset-uta10-messages)
 
 - [`dataset-uta10-classifications`](https://github.com/MIMBCD-UI/dataset-uta10-classifications)
